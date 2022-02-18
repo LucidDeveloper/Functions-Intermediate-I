@@ -1,10 +1,16 @@
-#author: Gianni M. Javier
+'''
+# @ author: 
+# Gianni M. Javier
 
 # Assignment: Functions Intermediate I
+
 # Objectives:
+
 # Practice writing functions and looping over dictionaries
 # Achieve a better understanding of how to traverse through a list of dictionaries or through a dictionary of lists
 # Note: Avoid using class keywords like int, str, list, and dict as variable/parameter names.
+
+'''
 
 #Update Values in Dictionaries and Lists
 
