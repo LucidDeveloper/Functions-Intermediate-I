@@ -1,5 +1,5 @@
-# Functions-Intermediate-I
-* Coding Dojo Python Functions Intermediate I Assignment.
+# Coding Dojo Assignment: Functions-Intermediate-I
+* Python Functions.
 
 # Objectives:
 * Practice writing functions and looping over dictionaries.
